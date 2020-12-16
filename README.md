@@ -1,4 +1,4 @@
-### Hi there 👋
+### 💦 물 같은 사람, 물 같은 Frontend 개발자 전민승의 깃헙 💦
 
 <!--
 **MinseungJeon/MinseungJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
