@@ -1,5 +1,10 @@
 ### 💦 물 같은 사람, 물 같은 Frontend 개발자 전민승의 깃헙 💦
 
+## 기술 스택
+# WEB programming
+* HTML
+* CSS
+* Javascript
 <!--
 **MinseungJeon/MinseungJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
