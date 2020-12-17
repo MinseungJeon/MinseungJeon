@@ -5,6 +5,23 @@
 * HTML
 * CSS
 * Javascript
+
+# Frontend Framework / Library
+* React
+  - 컴포넌트 디자인
+  - Hooks
+* Vue.js
+* Scss/Sass
+* Styled-components
+
+# Tools
+* Git
+* Slack
+* Trello
+
+# Skills
+* Communication
+* Scrum Process
 <!--
 **MinseungJeon/MinseungJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
