@@ -1,12 +1,12 @@
-#### 💦 물 같은 사람, 물 같은 Frontend 개발자 전민승의 깃헙 💦
+# 💦 물 같은 사람, 물 같은 Frontend 개발자 전민승의 깃헙 💦
 
 ## 기술 스택
-# WEB programming
+### WEB programming
 * HTML
 * CSS
 * Javascript
 
-# Frontend Framework / Library
+### Frontend Framework / Library
 * React
   - 컴포넌트 디자인
   - Hooks
@@ -14,12 +14,12 @@
 * Scss/Sass
 * Styled-components
 
-# Tools
+### Tools
 * Git
 * Slack
 * Trello
 
-# Skills
+### Skills
 * Communication
 * Scrum Process
 <!--
