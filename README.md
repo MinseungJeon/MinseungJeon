@@ -1,4 +1,4 @@
-# 💦 물 같은 사람, 물 같은 Frontend 개발자 전민승의 깃헙 💦
+# Frontend 개발자 전민승입니다. 
 
 ## 기술 스택
 ### WEB programming
