@@ -1,4 +1,5 @@
 # Frontend 개발자 전민승입니다. 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinseungJeon&show_icons=true&hide=stars&theme=flag-india)
 
 ## 기술 스택
 ### WEB programming
