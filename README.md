@@ -11,6 +11,7 @@
 * React
   - 컴포넌트 디자인
   - Hooks
+* Typescript
 * Vue.js
 * Scss/Sass
 * Styled-components
