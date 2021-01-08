@@ -9,8 +9,8 @@
 
 ### Frontend Framework / Library
 * React
-  - 컴포넌트 디자인
-  - Hooks
+  - Component reuse
+  - Hooks / Custom hooks
 * Typescript
 * Vue.js
 * Scss/Sass
